@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.qdo.AlphabetizerTest" time="0.031" tests="12" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.qdo.CommandPromptTest" time="0" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -57,16 +57,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testSpecialCharacters" classname="com.qdo.AlphabetizerTest" time="0.017"/>
-  <testcase name="testSameLetterDifferentCasesLowerFirstMode" classname="com.qdo.AlphabetizerTest" time="0"/>
-  <testcase name="test3BlindMice" classname="com.qdo.AlphabetizerTest" time="0"/>
-  <testcase name="testSingleUpperLetter" classname="com.qdo.AlphabetizerTest" time="0.001"/>
-  <testcase name="testEmpty" classname="com.qdo.AlphabetizerTest" time="0"/>
-  <testcase name="testSpace" classname="com.qdo.AlphabetizerTest" time="0"/>
-  <testcase name="testTwoLetter" classname="com.qdo.AlphabetizerTest" time="0"/>
-  <testcase name="testSameLetterDifferentCasesUpperFirstMode" classname="com.qdo.AlphabetizerTest" time="0"/>
-  <testcase name="testVirginiaTech" classname="com.qdo.AlphabetizerTest" time="0.001"/>
-  <testcase name="testNumber" classname="com.qdo.AlphabetizerTest" time="0.001"/>
-  <testcase name="testHelloWorld" classname="com.qdo.AlphabetizerTest" time="0"/>
-  <testcase name="testSingleLowerLetter" classname="com.qdo.AlphabetizerTest" time="0"/>
+  <testcase name="testRun" classname="com.qdo.CommandPromptTest" time="0"/>
+  <testcase name="testSetMode" classname="com.qdo.CommandPromptTest" time="0"/>
 </testsuite>

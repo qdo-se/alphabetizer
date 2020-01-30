@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.qdo.AlphabetizerTest
+Test set: com.qdo.CommandPromptTest
 -------------------------------------------------------------------------------
-Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s - in com.qdo.AlphabetizerTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in com.qdo.CommandPromptTest
